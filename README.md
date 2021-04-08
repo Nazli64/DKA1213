@@ -2,6 +2,6 @@
 
 This repository contains three files:
 
-lab1.html
-script.js
-style.css
+1. lab1.html
+2. script.js
+3. style.css
